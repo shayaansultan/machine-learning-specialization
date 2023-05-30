@@ -36,7 +36,7 @@ The repository is organized into the following directories:
 To get started with the Machine Learning Specialization, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-`git clone https://github.com/your-username/machine-learning-specialization.git 
+`git clone https://github.com/your-username/machine-learning-specialization.git `
 
 2. Navigate to the desired course directory, e.g., `Course 1`.
 
